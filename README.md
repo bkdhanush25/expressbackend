@@ -30,7 +30,7 @@ npm install
 To start the Express server, use the following command:
 
 ```bash
-npm start
+node app.js
 ```
 
 By default, the server will run on `http://localhost:3000`.
